@@ -1,2 +1,5 @@
 # UTSDasproPraktikumSemester1
-![Screenshot (56)](https://github.com/Nurwahibzy/UTSDasproPraktikumSemester1/assets/144310454/1eb1ed69-bbff-4972-b3de-f9f6d7029e23)
+# Nurwahib Zakki Yahya
+## NIM: 2341720154
+## Kelas TI-1F
+![Screenshot (56)](https://github.com/Nurwahibzy/UTSDasproPraktikumSemester1/assets/144310454/76238de7-3a7e-49ec-8988-a30b941735aa)
